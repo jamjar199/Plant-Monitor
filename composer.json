@@ -1,0 +1,11 @@
+{
+    "name": "james/plant_monitor",
+    "description": "The server side of a program to monitor a plants stats",
+    "type": "project",
+    "authors": [
+        {
+            "name": "james Lilliott",
+            "email": "jameslilliott@hotmail.co.uk"
+        }
+    ]
+}
