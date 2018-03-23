@@ -29,15 +29,9 @@ $data = $db->select($sql);
 
 <body class="bg-light">
 
-<header>
-    <div class="navbar navbar-dark bg-success box-shadow">
-        <div class="container d-flex justify-content-between">
-            <a href="#" class="navbar-brand d-flex align-items-center">
-                <strong><i class="fas fa-leaf"></i> Plant.io</strong>
-            </a>
-        </div>
-    </div>
-</header>
+<?php
+include 'navs/header.php';
+?>
 
 <main role="main">
     <div class="py-4">

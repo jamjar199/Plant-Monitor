@@ -1,6 +1,6 @@
 <?php
 
-require ("../config.php"); // get database credentials
+require ('config.php'); // get database credentials
 Class Db {
     //TODO: add special character removal to class
 
